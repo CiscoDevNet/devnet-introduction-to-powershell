@@ -1,0 +1,32 @@
+{
+    "labId": "introduction-to-powershell-introduction-v01",
+    "title": "PowerShell Introduction",
+    "slug": "This lab is an brief introduction to Microsoft PowerShell. PowerShell is an object oriented scripting language built on top of .NET. This lab will help get you started.",
+    "time": "15",
+    "byod": true,
+    "moduleOnly": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "PowerShell"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "introduction-to-powershell-cmdlets-and-objects-v01",
+        "title": "PowerShell Cmdlets and Objects"
+    },{
+        "labId": "introduction-to-powershell-pipelining-and-output-v01",
+        "title": "PowerShell Pipelining and Output"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}
