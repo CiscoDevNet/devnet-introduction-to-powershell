@@ -4,7 +4,6 @@
     "slug": "This is an introductory overview of MicroSoft PowerShell focusing on Pipelining and Output. PowerShell is an object oriented scripting language built on top of .NET.",
     "time": "15",
     "byod": true,
-    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
