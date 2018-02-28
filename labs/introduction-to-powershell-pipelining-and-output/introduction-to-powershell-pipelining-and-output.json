@@ -2,7 +2,7 @@
     "labId": "introduction-to-powershell-pipelining-and-output",
     "title": "PowerShell Pipelining and Output",
     "slug": "This is an introductory overview of MicroSoft PowerShell focusing on Pipelining and Output. PowerShell is an object oriented scripting language built on top of .NET.",
-    "time": "15",
+    "time": "30",
     "byod": true,
     "tags": [{
         "title": "Data Center"

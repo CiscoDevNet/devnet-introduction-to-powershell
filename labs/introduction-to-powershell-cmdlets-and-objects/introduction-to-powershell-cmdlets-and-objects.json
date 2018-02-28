@@ -2,7 +2,7 @@
     "labId": "introduction-to-powershell-cmdlets-and-objects",
     "title": "PowerShell Cmdlets and Objects",
     "slug": "This is an introductory overview of MicroSoft PowerShell focusing on Cmdlets and Objects. PowerShell is an object oriented scripting language built on top of .NET.",
-    "time": "15",
+    "time": "30",
     "byod": true,
     "tags": [{
         "title": "Data Center"

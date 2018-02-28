@@ -2,7 +2,7 @@
     "labId": "introduction-to-powershell-introduction",
     "title": "PowerShell Introduction",
     "slug": "This lab is an brief introduction to Microsoft PowerShell. PowerShell is an object oriented scripting language built on top of .NET. This lab will help get you started.",
-    "time": "15",
+    "time": "30",
     "byod": true,
     "tags": [{
         "title": "Data Center"
