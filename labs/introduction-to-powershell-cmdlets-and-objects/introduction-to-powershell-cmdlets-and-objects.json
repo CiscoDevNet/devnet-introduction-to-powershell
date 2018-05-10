@@ -10,9 +10,11 @@
         "title": "PowerShell"
     }],
     "files": [{
-        "title": "1.md"
+        "title": "PowerShell Cmdlets and Objects",
+        "file": "1.md"
     }, {
-        "title": "2.md"
+        "title": "Step 2: Understanding PowerShell Object vs. text, plus Cmdlet naming, Aliases and Arrays",
+        "file": "2.md"
     }],
     "related": [{
         "labId": "introduction-to-powershell-introduction",

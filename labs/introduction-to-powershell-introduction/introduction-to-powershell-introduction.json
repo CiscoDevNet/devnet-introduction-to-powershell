@@ -10,11 +10,14 @@
         "title": "PowerShell"
     }],
     "files": [{
-        "title": "1.md"
+        "title": "PowerShell Introduction",
+        "file": "1.md"
     }, {
-        "title": "2.md"
+        "title": "Step 2: Accessing PowerShell Object Members",
+        "file": "2.md"
     }, {
-        "title": "3.md"
+        "title": "Step 3: Exploring available PowerShell Cmdlets",
+        "file": "3.md"
     }],
     "related": [{
         "labId": "introduction-to-powershell-cmdlets-and-objects",
