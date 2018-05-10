@@ -1,4 +1,4 @@
-## Cisco DevNet Learning Labs: template
+## Cisco DevNet Learning Labs: Introduction to PowerShell
 
 These self-paced interactive tutorials provide instructions for developers to learn and understand PowerShell for automation commands.
 
