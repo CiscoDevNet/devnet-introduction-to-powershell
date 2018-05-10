@@ -10,11 +10,14 @@
         "title": "PowerShell"
     }],
     "files": [{
-        "title": "1.md"
+        "title": "PowerShell Pipelining and Output",
+        "file": "1.md"
     }, {
-        "title": "2.md"
+        "title": "Step 2: Outputting with PowerShell",
+        "file": "2.md"
     }, {
-        "title": "3.md"
+        "title": "Step 3: Writing with PowerShell",
+        "file": "3.md"
     }],
     "related": [{
         "labId": "introduction-to-powershell-introduction",
